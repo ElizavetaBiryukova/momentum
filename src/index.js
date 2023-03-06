@@ -1,0 +1,11 @@
+import './js/data';
+import './index.html';
+import './index.scss';
+import './js/util';
+import './js/clock';
+import './js/greetings';
+import './js/greetings-name';
+import './js/backgraund-image';
+import './js/quotes';
+import './js/weather';
+import './js/player';
